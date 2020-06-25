@@ -155,19 +155,21 @@ time {
 }
 
 #container main article .highlight pre {
+  background-color: #272822;
   overflow-x: auto;
   font-size: 0.9em;
   padding: 0.8em;
 }
 
-#container main article pre code {
+#container main article code {
+  padding: 0.2em;
+  background-color: #edeeef;
   font-size: 0.9em;
 }
 
-#container main article p code {
-  padding: 0.2em;
-  background-color: #ffcccc;
+#container main article pre code {
   font-size: 0.9em;
+  background-color: transparent; !important
 }
 
 #container main article p kbd {
