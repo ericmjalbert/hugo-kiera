@@ -263,7 +263,6 @@ width: 100%;
 }
 
 a {
-  color: #666666;
   text-decoration: none;
 }
 
@@ -424,4 +423,9 @@ ul.pagination {
 
 ul.pagination li {
   padding: 0 1em;
+}
+
+.fab {
+  font-family: "Font Awesome 5 Brands";
+  color: #666666;
 }

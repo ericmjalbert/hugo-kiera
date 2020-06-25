@@ -46,10 +46,6 @@ time {
   font-size: 2.4rem;
 }
 
-#container header h1 a {
-  color: #ffffff;
-}
-
 #container header ul {
   display: flex;
   margin: 0;
@@ -425,4 +421,9 @@ ul.pagination {
 
 ul.pagination li {
   padding: 0 1em;
+}
+
+fab {
+  font-family: "Font Awesome 5 Brands";
+  color: #666666;
 }
