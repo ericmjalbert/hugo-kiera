@@ -19,7 +19,7 @@ It was originally developed by [b. avianto](https://github.com/avianto/hugo-kier
     - [Images](#images)
     - [Code highlight](#code-highlight)
     - [Font Awesome icons](#font-awesome-icons)
-    - [Commenting](#static-commenting)
+    - [Disqus on demand](#disqus-on-demand)
   - [Support and Pull Requests](#support-and-pull-requests)
 
 ## Main Features
@@ -185,13 +185,9 @@ Using fenced code with Chroma support.
 
 For usage, refer to [Font Awesome](https://fontawesome.com/).
 
-### Static Commenting
+### Disqus on demand
 
-[Disqus](https://disqus.com/) comments are loaded on demand, by clicking the <kbd>View Comments</kbd> button. Disqus comments can be automatically loaded and displayed by setting `CommentAutoload = true` in `config.toml`.
-
-[Utterances](https://utteranc.es), a Git based comment system, is also available. Utterance comments are loaded and displayed by default.
-
-Comments can be disabled for a single page by setting `disableComments = true` in the page frontmatter.
+[Disqus](https://disqus.com/) comments are loaded on demand, by clicking the <kbd>View Comments</kbd> button.
 
 ## Support and Pull Requests
 
