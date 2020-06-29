@@ -429,3 +429,23 @@ ul.pagination li {
   font-family: "Font Awesome 5 Brands";
   color: #666666;
 }
+
+a:link {
+  color: #1111EE;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1111EE;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0000FF;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #fb3f00;
+  text-decoration: underline;
+}
